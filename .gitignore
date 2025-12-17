@@ -12,3 +12,5 @@ wheels/
 # macOS metadata
 .DS_Store
 
+# logger files
+game_state.jsonl
